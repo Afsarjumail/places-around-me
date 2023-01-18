@@ -186,10 +186,17 @@ vk.html
 
 ## Output:
 file:///home/sec/Pictures/Screenshots/out.png![image](https://user-images.githubusercontent.com/118343395/213190181-034f0cb3-8ad8-46fa-8e8a-45de2cabc594.png)
+file:///home/sec/Pictures/Screenshots/out1.png![image](https://user-images.githubusercontent.com/118343395/213190771-c01ac5ba-1e91-4b8d-b881-4d651d9155c5.png)
+file:///home/sec/Pictures/Screenshots/out2.png![image](https://user-images.githubusercontent.com/118343395/213190860-889f638f-3a48-40dd-968e-ba93c267e4b7.png)
+file:///home/sec/Pictures/Screenshots/out3.png![image](https://user-images.githubusercontent.com/118343395/213190933-32f98e24-b539-44b0-b370-8f5c77d079a2.png)
+file:///home/sec/Pictures/Screenshots/out4.png![image](https://user-images.githubusercontent.com/118343395/213191033-d52e8751-1e17-4361-b2db-990f6dc5cb04.png)
+file:///home/sec/Pictures/Screenshots/out5.png![image](https://user-images.githubusercontent.com/118343395/213191142-bbb0af49-8dfe-4d39-b72b-d8912f1be14d.png)
+
 
 
 
 ## HTML Validator
+file:///home/sec/Pictures/Screenshots/validmap.png![image](https://user-images.githubusercontent.com/118343395/213191260-de146f50-554a-4ca7-8fa1-779b07e7f7a4.png)
 
 
 
