@@ -185,15 +185,12 @@ vk.html
 
 
 ## Output:
-/home/sec/Pictures/Screenshots/out.png
-/home/sec/Pictures/Screenshots/out1.png
-/home/sec/Pictures/Screenshots/out2.png
-/home/sec/Pictures/Screenshots/out3.png
-/home/sec/Pictures/Screenshots/out4.png
-/home/sec/Pictures/Screenshots/out5.png
+file:///home/sec/Pictures/Screenshots/out.png![image](https://user-images.githubusercontent.com/118343395/213190181-034f0cb3-8ad8-46fa-8e8a-45de2cabc594.png)
+
+
 
 ## HTML Validator
-/home/sec/Pictures/Screenshots/validmap.png
+
 
 
 ## Result:
